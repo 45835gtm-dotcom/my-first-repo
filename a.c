@@ -1,4 +1,7 @@
 int main(void){
-    print("hello");
+    double i;
+    printf("hello");
+    scanf("%lf",&i);
+    printf("%lf",i);
     return 0;
 }
